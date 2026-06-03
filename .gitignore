@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secret files
+.env
+*.key
+*.pem
+
+# Data directories
+data/
+datasets/
+
+# Model checkpoints
+checkpoints/
+models/
+*.pt
+*.pth
+*.ckpt
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
